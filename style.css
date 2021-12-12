@@ -25,7 +25,7 @@
 
 :root {
   --first-color: #303841;
-  --second-color: #00adb5;
+  --second-color: #007cb5;
   --third-color: #eeeeee;
   --fourth-color: #ff5722;
   --fourth-color--light: #ff6537d7;
@@ -240,7 +240,7 @@ ul {
   .education-cards {
     padding: 0px 100px;
   }
-} */
+}  */
 
 @media only screen and (max-width: 768px) {
   .education-cards {
